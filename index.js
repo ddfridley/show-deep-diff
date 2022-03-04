@@ -1,5 +1,3 @@
-"use strict;"
-
 // show all the differences between between obj1 and obj2 recursively
 // show is the function to call to output differences to, defaults to console.info
 // path is the name of the parent property - usually undefined at the start of a compare but you can add something if it helps
