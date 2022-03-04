@@ -1,0 +1,24 @@
+{
+  "name": "show-deep-diff",
+  "version": "1.0.0",
+  "description": "deeply show the differences between two objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnCiv/show-deep-diff.git"
+  },
+  "keywords": [
+    "javascript",
+    "object",
+    "difference"
+  ],
+  "author": "David Fridley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EnCiv/show-deep-diff/issues"
+  },
+  "homepage": "https://github.com/EnCiv/show-deep-diff#readme"
+}
